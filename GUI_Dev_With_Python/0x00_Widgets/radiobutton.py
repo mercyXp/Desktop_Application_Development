@@ -10,5 +10,4 @@ for text, value in [("Apple", 1),("Banana",2), ("Grape",3)]:
     tk.Radiobutton(root, text=text, value=value, indicator = 0).pack()
 
 
-
 root.mainloop()
